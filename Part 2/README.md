@@ -1,1 +1,1 @@
-Second part of the tutorial. You can see the video [here](https://vizhub.com/curran/3a00f5c877ac4e30b7269c17f29d2e4d).
+Second part of the tutorial. You can see the video [here](https://vizhub.com/curran/3a00f5c877ac4e30b7269c17f29d2e4d). In this part, we used React to make the smile face. The result is similar to the firts part, but now the program has greater ability to be reused.
